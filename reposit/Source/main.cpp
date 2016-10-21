@@ -9,6 +9,7 @@ int main() {
 	simple_class sc3(12);
 	
 	cout <<"Small test";
+	cout <<"Another one";
 
 	cout << sc1.get_value() << endl;
 	cout << sc2.get_value() << endl;
