@@ -8,9 +8,10 @@ int main() {
 	simple_class sc2(10);
 	simple_class sc3(12);
 	
-	cout <<"Small test";
-	cout <<"Another one";
-
+	cout << "Small test";
+	cout << "Another one";
+	cout << "Another one (by Angoing)";
+	
 	cout << sc1.get_value() << endl;
 	cout << sc2.get_value() << endl;
 	cout << sc3.get_value() << endl;
