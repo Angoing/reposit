@@ -6,9 +6,11 @@ using namespace std;
 int main() {
 	simple_class sc1;
 	simple_class sc2(10);
-
+	simple_class sc3(12);
+	
 	cout << sc1.get_value() << endl;
 	cout << sc2.get_value() << endl;
+	cout << sc3.get_value() << endl;
 	
 	return 0;
 }
